@@ -1,0 +1,4 @@
+/build
+/.vscode
+/.vscode/*.log
+nul.d
